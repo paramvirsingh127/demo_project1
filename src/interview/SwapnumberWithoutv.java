@@ -1,4 +1,4 @@
-package src.swapnumber;
+package src.interview;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class SwapnumberWithoutv {
         x=x+y;
         y=x-y;
         x=x-y;
-        System.out.println("first swap number :"+x +"\nsecond swap number :"+y);
+        System.out.println("first swap number :"+x +"\n second swap number :"+y);
     }
 
 }

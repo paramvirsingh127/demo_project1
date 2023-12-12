@@ -1,5 +1,5 @@
-package src.swapnumber;
-import java.math.BigInteger;
+package src.interview;
+
 import java.util.Scanner;
 public class SwapNumber {
     // swap number in java
